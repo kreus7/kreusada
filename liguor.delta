@@ -1,0 +1,3 @@
+import Something
+
+def ( { setup.cli() [3] } )
