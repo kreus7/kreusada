@@ -1,1 +1,3 @@
-# This is required
+from .tests import *
+
+__author__ = "Kreusada"
