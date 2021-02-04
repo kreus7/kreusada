@@ -6,6 +6,7 @@ from .. import (
     random,
     urls,
     tags,
+    data
 )
 
 __author__ = tags.__author__
