@@ -5,8 +5,8 @@ import pathlib
 def fruit(plural: bool):
     with open(pathlib.Path(__file__).resolve(strict=True).parent / "datalists" / "consumables.yaml") as file:
         fruit = load(file)
-        for item, doc in fruit.items():
+        for k in fruit.keys():
             if not plural:
-                return pick(item['singular'])
+                return pick(k['singular'])
             else:
-                return pick(item['plural'])
+                return pick(k['plural'])
