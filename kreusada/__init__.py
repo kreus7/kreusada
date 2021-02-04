@@ -5,8 +5,7 @@ from .. import (
     embed,
     random,
     urls,
-    tags,
-    data
+    tags
 )
 
 __author__ = tags.__author__
