@@ -1,3 +1,7 @@
 from .tests import *
-
-__author__ = "Kreusada"
+from ..import (
+    tags,
+    chat_formatting,
+    embed,
+    urls
+)
