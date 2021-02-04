@@ -2,7 +2,7 @@ from yaml import full_load as load
 from random import choice as pick
 
 def fruit(plural: bool):
-    with open(r'data/consumables.yaml') as file:
+    with open(r'consumables.yaml') as file:
         fruit = load(file)
 
         for item, doc in fruit.items():
