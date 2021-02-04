@@ -7,5 +7,5 @@
 #    tags,
 #)
 
-__author__ = tags.__author__
-__version__ = tags.__version__
+#__author__ = tags.__author__
+#__version__ = tags.__version__
