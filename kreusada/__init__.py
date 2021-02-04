@@ -1,5 +1,5 @@
 from .tests import *
-from .. import (
+from . import (
     codeblocks,
     chat_formatting,
     embed,
