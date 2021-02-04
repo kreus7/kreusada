@@ -7,6 +7,6 @@ def fruit(plural: bool):
         fruit = load(file)
         for item, doc in fruit.items():
             if not plural:
-                return pick(item['fruits']['singular'])
+                return pick(item['singular'])
             else:
-                return pick(item['fruits']['plural'])
+                return pick(item['plural'])
