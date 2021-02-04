@@ -1,8 +1,5 @@
-class CodeBlocks:
+def box(text: str, lang: str):
+    return "```{}\n{}\n```".format(lang, text)
 
-    def box(text: str, lang: str):
-        return "```{}\n{}\n```".format(lang, text)
-
-    def backtick(text: str):
-        return "`{}`".format(text)
-        
+def backtick(text: str):
+    return "`{}`".format(text)
