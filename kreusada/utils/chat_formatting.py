@@ -1,6 +1,6 @@
 def bold(text: str):
-        """Returns a string with boldened characters."""
-        return "**{}**".format(text)
+    """Returns a string with boldened characters."""
+    return "**{}**".format(text)
 
 
 def italic(text: str):
@@ -26,11 +26,6 @@ def quote(text: str):
 def backtick(text: str):
     """Returns a string with backticks"""
     return "`{}`".format(text)
-
-
-def box(text: str, lang: str = ''):
-    """Returns a string inside a code-block."""
-    return "```{}\n{}\n```".format(lang, text)
 
 
 def snake(text: str):
