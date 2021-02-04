@@ -1,8 +1,9 @@
 from yaml import full_load as load
 from random import choice as pick
+import pathlib
 
 def fruit(plural: bool):
-    with open('consumables.yaml') as file:
+    with open(pathlib.Path(__file__).parent / "data/consumables.yaml") as file:
         fruit = load(file)
 
         for item, doc in fruit.items():
