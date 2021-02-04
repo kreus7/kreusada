@@ -1,0 +1,83 @@
+fruits:
+  singular:
+    - banana
+    - apple
+    - strawberry
+    - grape
+    - orange
+    - watermelon
+    - lemon
+    - avocado
+    - peach
+    - blueberry
+    - pineapple
+    - cantaloupe
+    - cherry
+    - pear
+    - lime
+    - mango
+    - raspberry
+    - blackberry
+    - plum
+    - nectarine
+  plural:
+    - bananas
+    - apples
+    - strawberries
+    - grapes
+    - oranges
+    - watermelons
+    - lemons
+    - avocados
+    - peaches
+    - blueberries
+    - pineapples
+    - cantaloupes
+    - cherries
+    - pears
+    - limes
+    - mangos
+    - raspberries
+    - blackberries
+    - plums
+    - nectarines
+veg:
+  singular:
+    - potato
+    - tomato
+    - onion
+    - carrot
+    - brocoli
+    - pepper
+    - lettuce
+    - cucumber
+    - celery
+    - corn
+    - garlic
+    - mushroom
+    - cabbage
+    - spinach
+    - green bean
+    - cauliflower
+    - asparagus
+  plural:
+    - bananas
+    - apples
+    - strawberries
+    - grapes
+    - oranges
+    - watermelons
+    - lemons
+    - avocados
+    - peaches
+    - blueberries
+    - pineapples
+    - cantaloupes
+    - cherries
+    - pears
+    - limes
+    - mangos
+    - raspberries
+    - blackberries
+    - plums
+    - nectarines
