@@ -1,0 +1,81 @@
+food:
+  fruits:
+    singular:
+      - banana
+      - apple
+      - strawberry
+      - grape
+      - orange
+      - watermelon
+      - lemon
+      - avocado
+      - peach
+      - blueberry
+      - pineapple
+      - cantaloupe
+      - cherry
+      - pear
+      - lime
+      - mango
+      - raspberry
+      - blackberry
+      - plum
+      - nectarine
+    plurals:
+      - bananas
+      - apples
+      - strawberries
+      - grapes
+      - oranges
+      - watermelons
+      - lemons
+      - avocados
+      - peaches
+      - blueberries
+      - pineapples
+      - cantaloupes
+      - cherries
+      - pears
+      - limes
+      - mangos
+      - raspberries
+      - blackberries
+      - plums
+      - nectarines
+  vegetables:
+    singular:
+      - potato
+      - tomato
+      - onion
+      - carrot
+      - brocoli
+      - pepper
+      - lettuce
+      - cucumber
+      - celery
+      - corn
+      - garlic
+      - mushroom
+      - cabbage
+      - spinach
+      - green bean
+      - cauliflower
+      - asparagus
+    plural:
+      - potatoes
+      - tomatoes
+      - onions
+      - carrots
+      - brocoli
+      - peppers
+      - lettuce
+      - cucumbers
+      - celery
+      - corn
+      - garlic
+      - mushrooms
+      - cabbage
+      - spinach
+      - green beans
+      - cauliflowers
+      - asparagus
