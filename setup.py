@@ -5,13 +5,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="kreusada",
-    version="1.2.2.dev1",
+    version="1.2.3.dev1",
     author="Kreusada",
     author_email="kreusadaprojects@gmail.com",
     description="A pypi package, with utils for Red-DiscordBot.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/kreus7/kreusada",
+    url="https://github.com/kreusada/kreusadapypi",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
