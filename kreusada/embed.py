@@ -1,3 +1,5 @@
+import random
+
 def randcolor():
     """
     Generates a random embed colour.
