@@ -1,7 +1,7 @@
 from .tags import (
   __version__,
   __author__,
-  __contributors,
+  __contributors__,
 )
 
 from .box import (

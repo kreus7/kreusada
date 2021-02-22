@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="kreusada",
-    version="1.2.4.dev1",
+    version="1.2.4.dev2",
     author="Kreusada",
     author_email="kreusadaprojects@gmail.com",
     description="A pypi package, with utils for Red-DiscordBot.",
