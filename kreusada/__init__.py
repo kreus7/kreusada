@@ -9,7 +9,7 @@ from .box import (
   small,
 )
 
-from chat_formatting import (
+from .chat_formatting import (
   bold,
   italic,
   strike,
@@ -24,7 +24,7 @@ from .embed import (
   randcolour,
 )
 
-from internals import (
+from .internals import (
   platform,
   ram,
   os,
